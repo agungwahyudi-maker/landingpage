@@ -1,0 +1,67 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: pink;
+	background-size: cover;
+
+}
+.login-box{
+	width: 200px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	color: white;
+}
+.login-box h1{
+	float: center;
+	font-size: 40px;
+	padding: 10px 0;
+	color: black;
+	border-color: black;
+	text-align: center;
+	lighting-color: currentColor;
+}
+.textbox{
+	width: 100%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 3px 0;
+	margin: 3px 0;
+	border-bottom: 10px;
+}
+.textbox i{
+	width: 26px;
+	float: left;
+	text-align: center;
+}
+.textbox input{
+	border: none;
+	outline: none;
+	background: none
+	color: white;
+	font-size: 13px;
+	text-align: center;
+	width: 100%;
+	float: left;
+	margin: 10px 0;
+}
+.button{
+	width: 100%;
+	background: none;
+	border: 2px solid red;
+	color: black;
+	padding-right: 5px;
+	font-size: 13px;
+	cursor: pointer;
+	margin: 10px 0;
+
+}
+.tanya a{
+	color:black;
+	font-size: 10px;
+	text-align: center;
+}.tanya{
+	text-align: center;
+}

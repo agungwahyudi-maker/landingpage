@@ -1,0 +1,48 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0 auto;
+}
+body {
+  background-color: rgb(71, 56, 55);
+  background-image: url(img/home.jpg);
+  background-size: cover;
+}
+.container {
+  width: 700px;
+  height: 300px;
+}
+table {
+  margin-top: 50px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(139, 121, 121);
+}
+table:hover {
+  box-shadow: 0 0 200px 20px rgb(255, 217, 5);
+}
+.container #judul {
+  background-color: yellow;
+}
+tr,
+th,
+td {
+  padding: 10px;
+}
+button {
+  background-color: aqua;
+  border-radius: 10px;
+  padding: 5px;
+  width: 200px;
+  margin-left: 100px;
+  margin-top: 30px;
+  border-style: none;
+}
+button:hover {
+  background-color: rgb(217, 255, 1);
+  width: 210px;
+}
+#nama,
+#tgl_lahir,
+#pendidikan,
+option {
+  background-color: aqua;
+}

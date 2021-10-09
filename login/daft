@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Daftar</title>
+	<link rel="stylesheet" type="text/css" href="styledaftar.css">
+</head>
+<body>
+	<h1>WELCOME TO MASLA</h1>
+	<main>
+		<div class="daftar">
+			<div class="nama">
+				<input type="text" placeholder="Nama Lengkap">
+			</div>
+			<div class="alamat">
+				<input type="text" placeholder="Alamat Lengkap">
+			</div>
+			<div class="nomorhp">
+				<input type="number" placeholder="No Handphone" >
+			</div>
+		</div>
+	</main>
+
+</body>
+</html>
